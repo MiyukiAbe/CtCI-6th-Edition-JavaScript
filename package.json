@@ -3,11 +3,12 @@
   "version": "0.0.1",
   "description": "Cracking the Coding Interview - Answers in Javascript",
   "scripts": {
-    "test": "eslint ."
+    "test": "eslint .",
+    "start": "node chapter00/binarySearchTree/binarySearchTree.js start"
   },
   "dependencies": {},
   "devDependencies": {
-    "eslint": "^3.14.1"    
+    "eslint": "^3.14.1"
   },
   "license": "MIT"
 }
